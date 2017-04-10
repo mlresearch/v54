@@ -42,7 +42,7 @@ issued:
   - 10
 pdf: http://proceedings.mlr.press/v54/pimentel-alarcon17a/pimentel-alarcon17a.pdf
 extras:
-- label: Supplementary pdf
-  link: http://proceedings.mlr.press/v54/pimentel-alarcon17a/pimentel-alarcon17a/pimentel-alarcon17a-supp.pdf
+- label: Supplementary PDF
+  link: http://proceedings.mlr.press/v54/pimentel-alarcon17a/pimentel-alarcon17a-supp.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

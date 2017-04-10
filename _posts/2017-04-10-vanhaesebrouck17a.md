@@ -42,7 +42,7 @@ issued:
   - 10
 pdf: http://proceedings.mlr.press/v54/vanhaesebrouck17a/vanhaesebrouck17a.pdf
 extras:
-- label: Supplementary pdf
-  link: http://proceedings.mlr.press/v54/vanhaesebrouck17a/vanhaesebrouck17a/vanhaesebrouck17a-supp.pdf
+- label: Supplementary PDF
+  link: http://proceedings.mlr.press/v54/vanhaesebrouck17a/vanhaesebrouck17a-supp.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
