@@ -1,0 +1,64 @@
+---
+booktitle: Proceedings of the 20th International Conference on Artificial Intelligence
+  and Statistics
+conference_number: '20'
+shortname: AISTATS
+volume: 54
+year: '2017'
+start: 2017-04-20
+end: 2017-04-22
+published: 2017-04-10
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: AISTATS-2017
+month: 0
+cycles: false
+editor:
+- given: Aarti
+  family: Singh
+- given: Jerry
+  family: Zhu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 20th International Conference on Artificial Intelligence and Statistics
+    Held in Fort Lauderdale, FL, USA on 20-22 April 2017
+
+  Published as Volume 54 by the Proceedings of Machine Learning Research on 10 April 2017.
+
+  Volume Edited by:
+    Aarti Singh
+    Jerry Zhu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 20--22 Apr
+baseurl: "/v54"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v54
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Artificial Intelligence and Statistics
+  url: 
+  location: Fort Lauderdale, FL, USA
+  dates:
+  - 2017-04-20
+  - 2017-04-21
+  - 2017-04-22
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v54/aistats17.bib
